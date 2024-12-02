@@ -7,7 +7,8 @@ import HomePage from './home/workspaces';
 import About from './home/about';
 import Contact from './home/contact';
 import { SearchProvider } from './context/context'; // Assuming SearchProvider is in your context folder
-import ResultsPage from './home/result';
+import ResultsPage from "./home/Result"
+
 
 function App() {
   return (
