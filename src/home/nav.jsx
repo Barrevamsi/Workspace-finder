@@ -1,8 +1,8 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import { NavLink } from 'react-router-dom';
 
 function NavScrollExample() {
   return (
@@ -16,7 +16,8 @@ function NavScrollExample() {
     >
       <Container fluid>
         <Navbar.Brand
-          href="#"
+          as={NavLink}
+          to="/"
           style={{
             color: '#f0f8ff',
             fontWeight: 'bold',
@@ -27,10 +28,10 @@ function NavScrollExample() {
         <Navbar.Toggle aria-controls="navbarScroll" style={{ borderColor: '#f0f8ff' }} />
         <Navbar.Collapse id="navbarScroll">
           <Nav className="me-auto my-2 my-lg-0 px-3 mx-5" navbarScroll>
-            <Nav.Link href="#home" style={{ color: '#f0f8ff', fontWeight: '500' }}>
+            <Nav.Link as={NavLink} to="/" style={{ color: '#f0f8ff', fontWeight: '500' }}>
               Home
             </Nav.Link>
-            <Nav.Link href="#work" style={{ color: '#f0f8ff', fontWeight: '500' }}>
+            <Nav.Link as={NavLink} to="/search" style={{ color: '#f0f8ff', fontWeight: '500' }}>
               Work Spaces
             </Nav.Link>
             <Nav.Link href="#about" style={{ color: '#f0f8ff', fontWeight: '500' }}>
@@ -38,6 +39,9 @@ function NavScrollExample() {
             </Nav.Link>
             <Nav.Link href="#contact" style={{ color: '#f0f8ff', fontWeight: '500' }}>
               Contact
+            </Nav.Link>
+            <Nav.Link as={NavLink} to="/my-bookings" style={{ color: '#f0f8ff', fontWeight: '500' }}>
+              My Bookings
             </Nav.Link>
           </Nav>
           <Nav>

@@ -1,30 +1,19 @@
-import { useContext } from "react";
-import { SearchContext } from "../context/context";
-import data from "../data.json";
-import "bootstrap/dist/css/bootstrap.min.css";
-import Search from "./search";
-import { Link } from "react-router-dom";
+import React from "react";
+import { useBooking } from "../context/bookingContext";
 
-function ResultsPage() {
-  const { searchTerm } = useContext(SearchContext);
-
-  
-  const filteredData = data.filter((workspace) =>
-    workspace.location.toLowerCase().includes(searchTerm)
-  );
+function MyBookings() {
+  const { bookings } = useBooking();
 
   return (
-    <>
-    <br />
-    <br />
-    <Search/>
     <div className="container mt-4">
-
-      <h2 className="text-center mb-4">Search Results</h2>
-      {filteredData.length > 0 ? (
+      <br /><br />
+      <h2 className="text-center mb-4">My Bookings</h2>
+      {bookings.length === 0 ? (
+        <p className="text-center">No bookings yet!</p>
+      ) : (
         <div className="row">
-          {filteredData.map((workspace) => (
-            <div className="col-md-3 mt-3" key={workspace.id}>
+          {bookings.map((workspace, index) => (
+            <div className="col-md-3 mt-3" key={index}>
               <div className="card h-100">
                 <img
                   src={workspace.image}
@@ -44,19 +33,14 @@ function ResultsPage() {
                       Rating: {workspace.rating} ⭐
                     </small>
                   </p>
-                  <Link to={`/workspace/${workspace.id}`} className="btn btn-primary">
-                  View Details
-                </Link>
                 </div>
               </div>
             </div>
           ))}
         </div>
-      ) : (
-        <p className="text-center">No results found for "{searchTerm}".</p>
       )}
     </div>
-    </> );
+  );
 }
 
-export default ResultsPage;
+export default MyBookings;

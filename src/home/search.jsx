@@ -23,7 +23,7 @@ function Search() {
         placeholder="Enter the location ..."
         onChange={handleSearch}
         style={{
-          width: "300px",
+          width: "50%",
           padding: "10px",
           borderRadius: "5px",
           border: "1px solid #ccc",

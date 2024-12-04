@@ -49,6 +49,7 @@ function Home() {
   
   return (
     <>
+    <br />
     <Carousel activeIndex={index} onSelect={handleSelect} className="carousel-container" id='home'>
       {slides.map((slide) => (
         <Carousel.Item key={slide.id}>

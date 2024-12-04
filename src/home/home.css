@@ -1,18 +1,18 @@
 .carousel-image {
-  height: 85vh; /* Set the height to 70% of the viewport height */
-  object-fit: cover; /* Ensures the image is scaled and cropped without distortion */
+  height: 85vh;
+  object-fit: cover; 
 }
 
 .carousel-container {
-  max-height: 85vh; /* Enforce a consistent height for the carousel */
-  overflow: hidden; /* Prevent any overflow */
+  max-height: 85vh; 
+  overflow: hidden;/
 }
 
 .carousel-caption {
-  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  background-color: rgba(0, 0, 0, 0.5); 
   padding: 20px;
   border-radius: 10px;
-  text-align: left; /* Align text to the left */
+  text-align: left;
 }
 
 .carousel-caption h3 {
