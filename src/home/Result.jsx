@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { SearchContext } from "../context/context";
 import data from "../data.json";
-import "bootstrap/dist/css/bootstrap.min.css";
+// import "bootstrap/dist/css/bootstrap.min.css";
 import Search from "./search";
 import { Link } from "react-router-dom";
 
