@@ -106,7 +106,7 @@ function ResultsPage() {
                   marginBottom: "10px",
                 }}
               >
-                ₹{workspace.pricePerDay} / day
+                {workspace.pricePerDay} / day
               </p>
               <p
                 className="card-text"

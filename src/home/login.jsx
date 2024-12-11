@@ -21,38 +21,6 @@ function Login({ onLogin }) {
   };
 
   return (
-    // <div className="container mt-5">
-    //   <h2 className="text-center">Login</h2>
-    //   <form onSubmit={handleLogin}>
-    //     <div className="mb-3">
-    //       <label>Email</label>
-    //       <input
-    //         type="email"
-    //         className="form-control"
-    //         value={email}
-    //         onChange={(e) => setEmail(e.target.value)}
-    //         required
-    //       />
-    //     </div>
-    //     <div className="mb-3">
-    //       <label>Password</label>
-    //       <input
-    //         type="password"
-    //         className="form-control"
-    //         value={password}
-    //         onChange={(e) => setPassword(e.target.value)}
-    //         required
-    //       />
-    //     </div>
-    //     <button type="submit" className="btn btn-primary w-100">
-    //       Login
-    //     </button>
-    //   </form>
-    //   <p className="mt-3 text-center">
-    //     Don't have an account? <a href="/register">Register</a>
-    //   </p>
-    // </div>
-
     <div className="container mt-5">
     <h2 className="text-center mb-4" style={{ fontSize: "2rem", fontWeight: "bold" }}>
       Welcome to WorkSpace Finder
@@ -142,12 +110,20 @@ function Login({ onLogin }) {
         >
           Login
         </button>
+        {/* <button
+  className="btn btn-secondary"
+  style={{ marginTop: "10px" }}
+  onClick={() => navigate("/")}>
+  Continue as Guest
+ </button> */}
       </form>
   
       <p className="mt-3 text-center" style={{ fontSize: "1rem", color: "#555" }}>
         Don't have an account? <a href="/register" style={{ color: "#4682b4" }}>Register</a>
       </p>
     </div>
+    {/* guest login page */}
+    
   </div>
   
 
