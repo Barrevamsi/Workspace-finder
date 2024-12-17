@@ -7,6 +7,9 @@
     "pricePerDay": "₹500",
     "facilities": ["Wi-Fi", "Air Conditioning", "Conference Rooms", "Parking"],
     "image": "https://hiveworkspaces.com/wp-content/uploads/slider/cache/3b63a59bd14e33f84422a30b22a7d711/CB_26595-1-scaled.jpg",
+    "image1": "https://www.dgicommunications.com/wp-content/uploads/2022/08/Design_a_Flexible_Workspace.jpg",
+    "image2": "https://images.inc.com/uploaded_files/image/1920x1080/getty_517610514_353435.jpg",
+    "image3": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
     "description": "A modern workspace with state-of-the-art facilities located in the heart of Hyderabad."
   },
   {
@@ -17,6 +20,9 @@
     "pricePerDay": "₹600",
     "facilities": ["Wi-Fi", "Free Beverages", "Private Cabins", "Event Space"],
     "image": "https://assets.oyoroomscdn.com/cmsMedia/medium/d290b18e-d01a-4c8f-adc6-0acf56cb2021.jpg",
+    "image1": "https://images.inc.com/uploaded_files/image/1920x1080/getty_517610514_353435.jpg",
+    "image2": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
+    "image3": "https://images.squarespace-cdn.com/content/v1/5877fcf8ebbd1a0e70bf993e/1612977764262-I0UOYLBCFNVLYG0B24BY/A+desk+set+up+inside+a+shared+workspace",
     "description": "A vibrant workspace designed for collaboration and innovation."
   },
   {
@@ -27,6 +33,9 @@
     "pricePerDay": "₹550",
     "facilities": ["Wi-Fi", "Printing", "Pantry", "High-speed Internet"],
     "image": "https://images.hindustantimes.com/img/2024/08/01/550x309/7261e198-1001-4f8c-8e29-fa2c3455d5fb_1722495044319_1722495048637.jpg",
+    "image1": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
+    "image2": "https://steelcase-res.cloudinary.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1479916380/www.steelcase.com/2016/11/23/16-0016132.jpg",
+    "image3": "https://images.squarespace-cdn.com/content/v1/5877fcf8ebbd1a0e70bf993e/1612977764262-I0UOYLBCFNVLYG0B24BY/A+desk+set+up+inside+a+shared+workspace",
     "description": "Affordable workspace with modern amenities in a bustling IT hub."
   },
   {
@@ -37,6 +46,9 @@
     "pricePerDay": "₹480",
     "facilities": ["Wi-Fi", "Open Desks", "Parking", "Community Events"],
     "image": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dwe21d4c07/resources/vari-active-workspace-simplicity2.jpg?sw=1920",
+    "image1": "https://cdn.prod.website-files.com/6087aa810ab31f22c090aad8/64d0955c8a483be17284a0ba_61af56656a99194336b8bc55_Benefits%20of%20a%20Satellite%20Office-min.webp",
+    "image2": "https://hubble.imgix.net/listings/uploads/spaces/8843/Screenshot_2023-07-21_at_15.46.11.png?auto=format%2Ccompress&ar=4%3A3&fit=crop&q=30&w=3840",
+    "image3": "https://images.stockcake.com/public/5/3/2/53226790-eaaa-4b7d-82a7-34e07059cf42_large/office-night-work-stockcake.jpg",
     "description": "A creative coworking environment perfect for startups and individuals."
   },
   {
@@ -52,6 +64,9 @@
       "Networking Events"
     ],
     "image": "https://coworkingers.com/wp-content/uploads/2023/07/2021-07-31-min.png",
+    "image1": "https://images.stockcake.com/public/2/2/e/22e3c060-f7ea-4bf4-8c04-df35c00f72fa_large/busy-office-space-stockcake.jpg",
+    "image2": "https://images.stockcake.com/public/5/3/2/53226790-eaaa-4b7d-82a7-34e07059cf42_large/office-night-work-stockcake.jpg",
+    "image3": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw038c10ab/b2b-campaign/mobile/2024-b2b-lp_module-44_mobile-final.jpg",
     "description": "A premium coworking space with excellent networking opportunities."
   },
   {
@@ -67,6 +82,9 @@
       "Community Events"
     ],
     "image": "https://picture.liquidspace.com/Index?emptyImageUrl=https%3A%2F%2Fcontent.liquidspace.com%2FImages%2Fliquid-holder.jpg%3Fv%3Dff1a777e91&etag=kDC6iT6ht%2Fuoh4Jsp30DbQ%3D%3D&crop=true&aux=jbLq1PFAlR4ap8NXuShLg6owB7RPmPBSeg9Nk%2Beapl8iD%2FF2e9745Yw%2BV4BrZ%2BcHqeGQBn7oCQQcNGIDIssRNw%3D%3D",
+    "image1": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw038c10ab/b2b-campaign/mobile/2024-b2b-lp_module-44_mobile-final.jpg",
+    "image2": "https://images.stockcake.com/public/5/3/2/53226790-eaaa-4b7d-82a7-34e07059cf42_large/office-night-work-stockcake.jpg",
+    "image3": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw1e59bfde/b2b-campaign/desktop/2024-b2b-lp_module-6_carousel_desktop-1.jpg?sw=1500",
     "description": "A luxurious and productive space for entrepreneurs and professionals."
   },
   {
@@ -77,6 +95,9 @@
     "pricePerDay": "₹580",
     "facilities": ["Wi-Fi", "Private Offices", "Parking", "Free Tea/Coffee"],
     "image": "https://www.cubework.com/_next/image?url=%2Fimages%2Fevent-space.jpg&w=3840&q=75",
+    "image1": "https://smartway2.com/wp-content/uploads/2021/04/shutterstock_763511701.jpg",
+    "image2": "https://media.licdn.com/dms/image/D4E12AQF53yEweWQt4g/article-cover_image-shrink_600_2000/0/1717488792902?e=2147483647&v=beta&t=DUYFeJmRZEo2liSA0NrjYZ0jLk4iAtD3dyo6-cb9esQ",
+    "image3": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
     "description": "A modern office space in Hyderabad's tech corridor."
   },
   {
@@ -87,6 +108,9 @@
     "pricePerDay": "₹490",
     "facilities": ["Wi-Fi", "Meeting Rooms", "Power Backup", "Snack Bar"],
     "image": "https://deskconnect.in/wp-content/uploads/2021/08/workspace-for-startup-and-freelancers-in-delhi-by-deskconnect-in-ghitorni.jpg",
+    "image1": "ttps://cms.workplaceone.com/cr_images/solutions/_1300x730_crop_center-center_none/sm-017_LH_Workplace_One.jpg",
+    "image2": "https://imageio.forbes.com/blogs-images/davidburkus/files/2016/06/space-desk-workspace-coworking-1200x795.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "image3": "https://images.inc.com/uploaded_files/image/1920x1080/getty_517610514_353435.jpg",
     "description": "A cozy and convenient coworking space for individuals and teams."
   },
   {
@@ -102,6 +126,9 @@
       "Networking Opportunities"
     ],
     "image": "https://5.imimg.com/data5/SELLER/Default/2023/10/351598854/GZ/GO/VP/140837688/opendesk-office-workstation-500x500.jpg",
+    "image1": "https://framery.com/wp-content/uploads/2021/01/framery_by_janitaautio-7-edit.jpg",
+    "image2": "https://ctfassets.imgix.net/vh7r69kgcki3/BNBUKWwqCMRq2UNYPSim6/36c513b14f527abb36818f64a068437e/Web_72DPI-2P_WINDOW.jpg?auto=format%20compress&fit=crop&q=50&w=750px",
+    "image3": "https://www.executivecentre.com/_next/static/media/planOverview-po-exploreWorkspace.bbe105c8.jpg",
     "description": "A professional environment that encourages creativity and growth."
   },
   {
@@ -112,6 +139,9 @@
     "pricePerDay": "₹450",
     "facilities": ["Wi-Fi", "Hot Desks", "Lockers", "Pantry"],
     "image": "https://www.goodworks.in/wp-content/uploads/2020/05/How-to-choose-the-best-Coworking-space-in-Bangalore-for-your-Business.-1-scaled.jpg",
+    "image1": "https://www.pressmach.com/public/uploads/media/modular-office-spaces674020996eb18.jpeg",
+    "image2": "https://venturainteriors.com/wp-content/uploads/2024/12/Best-High-End-Office-Accessories-to-Elevate-Your-Workspace.webp",
+    "image3": "https://cdn.prod.website-files.com/66a08e07fa6352714fc1d6da/6736e933a500fd87dee3e38a_66f25bbe5bcaeaf2d06b8dd3_66a0a94a2c500c332b6f2604_DevX_coworkig_space-2-1024x683.jpeg",
     "description": "Flexible workspace solutions for professionals on the move."
   },
   {
@@ -122,6 +152,9 @@
     "pricePerDay": "₹510",
     "facilities": ["Wi-Fi", "Private Cabins", "Community Events", "Pantry"],
     "image": "https://zenithcoworking.com/assets/about-image-BpjdbB90.png",
+    "image1": "https://plazamodularfurniture.com/wp-content/uploads/2023/10/office-furniture-manufacturer-768x512.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00jrncRYTqhUkw/Best-High-Quality-Office-Furniture.webp",
+    "image3": "https://assets.isu.pub/document-structure/230429122941-63f919448e341ec748438adbcd000bcf/v1/27c5aae2571c77d448e68b92c7299b36.jpeg",
     "description": "A dynamic coworking space designed for tech entrepreneurs and creative professionals."
   },
   {
@@ -137,6 +170,9 @@
       "Free Beverages"
     ],
     "image": "https://primework.com/images/l-prime-by-design2.jpg",
+    "image1": "https://plazamodularfurniture.com/wp-content/uploads/2023/10/office-furniture-manufacturer-768x512.jpg",
+    "image2": "https://image.made-in-china.com/2f0j00jrncRYTqhUkw/Best-High-Quality-Office-Furniture.webp",
+    "image3": "https://assets.isu.pub/document-structure/230429122941-63f919448e341ec748438adbcd000bcf/v1/27c5aae2571c77d448e68b92c7299b36.jpeg",
     "description": "Ideal for businesses needing flexible workspaces with high-end facilities."
   },
   {
@@ -147,6 +183,9 @@
     "pricePerDay": "₹470",
     "facilities": ["Wi-Fi", "Free Coffee", "Work Pods", "Outdoor Seating"],
     "image": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
+    "image1": "https://assets.isu.pub/document-structure/230429122941-63f919448e341ec748438adbcd000bcf/v1/27c5aae2571c77d448e68b92c7299b36.jpeg",
+    "image2": "https://koala.sh/api/image/v2-dgsfu-7iiv7.jpg?width=1216&height=832&dream",
+    "image3": "https://officeplus.ae/wp-content/uploads/2020/09/Office-Executive-Desk-1212x800.jpg",
     "description": "An eco-friendly coworking space with an emphasis on sustainability and productivity."
   },
   {
@@ -162,6 +201,9 @@
       "Meeting Rooms"
     ],
     "image": "https://images.inc.com/uploaded_files/image/1920x1080/getty_517610514_353435.jpg",
+    "image1": "https://officeplus.ae/wp-content/uploads/2020/09/Office-Executive-Desk-1212x800.jpg",
+    "image2": "https://koala.sh/api/image/v2-dgsfu-7iiv7.jpg?width=1216&height=832&dream",
+    "image3": "https://assets.isu.pub/document-structure/230429122941-63f919448e341ec748438adbcd000bcf/v1/27c5aae2571c77d448e68b92c7299b36.jpeg",
     "description": "A productive environment perfect for professionals and small teams."
   },
   {
@@ -172,6 +214,9 @@
     "pricePerDay": "₹620",
     "facilities": ["Wi-Fi", "Air Conditioning", "Event Space", "Cafeteria"],
     "image": "https://www.siasat.com/wp-content/uploads/2024/04/Office-bubbles.jpeg",
+    "image1": "https://assets.isu.pub/document-structure/230429122941-63f919448e341ec748438adbcd000bcf/v1/27c5aae2571c77d448e68b92c7299b36.jpeg",
+    "image2": "https://koala.sh/api/image/v2-dgsfu-7iiv7.jpg?width=1216&height=832&dream",
+    "image3": "https://plazamodularfurniture.com/wp-content/uploads/2023/10/office-furniture-manufacturer-768x512.jpg",
     "description": "A convenient workspace that connects professionals to opportunities across the city."
   },
   {
@@ -187,6 +232,9 @@
       "High-speed Internet"
     ],
     "image": "https://www.worldfurnitureonline.com/wp-content/uploads/2023/08/WPD-2023-scaled.jpeg",
+    "image1": "https://koala.sh/api/image/v2-dgsfu-7iiv7.jpg?width=1216&height=832&dream",
+    "image2": "https://officeplus.ae/wp-content/uploads/2020/09/Office-Executive-Desk-1212x800.jpg",
+    "image3": "https://plazamodularfurniture.com/wp-content/uploads/2023/10/office-furniture-manufacturer-768x512.jpg",
     "description": "A bright and open coworking space with a focus on comfort and collaboration."
   },
   {
@@ -202,6 +250,9 @@
       "Networking Events"
     ],
     "image": "https://elevatecoworking.info/wp-content/uploads/2023/02/DSC01914-scaled.jpg",
+    "image1": "https://plazamodularfurniture.com/wp-content/uploads/2023/10/office-furniture-manufacturer-768x512.jpg",
+    "image2": "https://cdn.prod.website-files.com/66a08e07fa6352714fc1d6da/6736e933a500fd87dee3e38a_66f25bbe5bcaeaf2d06b8dd3_66a0a94a2c500c332b6f2604_DevX_coworkig_space-2-1024x683.jpeg",
+    "image3": "https://venturainteriors.com/wp-content/uploads/2024/12/Best-High-End-Office-Accessories-to-Elevate-Your-Workspace.webp",
     "description": "A premium coworking space offering top-notch facilities and an inspiring environment."
   },
   {
@@ -217,6 +268,9 @@
       "Creative Workshops"
     ],
     "image": "https://trendgroup.co.za/wp-content/uploads/2024/08/importance-of-workspace-design-1.jpg",
+    "image1": "https://venturainteriors.com/wp-content/uploads/2024/12/Best-High-End-Office-Accessories-to-Elevate-Your-Workspace.webp",
+    "image2": "https://www.pressmach.com/public/uploads/media/modular-office-spaces674020996eb18.jpeg",
+    "image3": "https://www.executivecentre.com/_next/static/media/planOverview-po-exploreWorkspace.bbe105c8.jpg",
     "description": "A hub for startups and entrepreneurs, designed to spark creativity and innovation."
   },
   {
@@ -227,6 +281,9 @@
     "pricePerDay": "₹510",
     "facilities": ["Wi-Fi", "Private Cabins", "Event Space", "Cafeteria"],
     "image": "https://img.cofynd.com/images/original/f3d377dd0ca6e06dbaaa305f055f543ac8e15bf5.jpg",
+    "image1": "https://ctfassets.imgix.net/vh7r69kgcki3/BNBUKWwqCMRq2UNYPSim6/36c513b14f527abb36818f64a068437e/Web_72DPI-2P_WINDOW.jpg?auto=format%20compress&fit=crop&q=50&w=750px",
+    "image2": "https://framery.com/wp-content/uploads/2021/01/framery_by_janitaautio-7-edit.jpg",
+    "image3": "https://images.inc.com/uploaded_files/image/1920x1080/getty_517610514_353435.jpg",
     "description": "A collaborative coworking space offering great opportunities for networking and growth."
   },
   {
@@ -242,6 +299,9 @@
       "Free Printing"
     ],
     "image": "https://res.cloudinary.com/myhq/image/upload/workspaces/teloz-spaces-synergy-business-park/4xy3cr.jpg",
+    "image1": "https://imageio.forbes.com/blogs-images/davidburkus/files/2016/06/space-desk-workspace-coworking-1200x795.jpg?format=jpg&height=900&width=1600&fit=bounds",
+    "image2": "https://cms.workplaceone.com/cr_images/solutions/_1300x730_crop_center-center_none/sm-017_LH_Workplace_One.jpg",
+    "image3": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
     "description": "A professional and flexible workspace, ideal for teams and solo entrepreneurs."
   },
   {
@@ -252,6 +312,9 @@
     "pricePerDay": "₹420",
     "facilities": ["Wi-Fi", "Private Desks", "Conference Rooms", "Tea/Coffee"],
     "image": "https://workspacedowntown.com/wp-content/uploads/2024/05/quotcuttingedge-office-sleek-modern-workspacequot-scaled.jpg",
+    "image1": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
+    "image2": "https://media.licdn.com/dms/image/D4E12AQF53yEweWQt4g/article-cover_image-shrink_600_2000/0/1717488792902?e=2147483647&v=beta&t=DUYFeJmRZEo2liSA0NrjYZ0jLk4iAtD3dyo6-cb9esQ",
+    "image3": "https://smartway2.com/wp-content/uploads/2021/04/shutterstock_763511701.jpg",
     "description": "A cheerful workspace offering a perfect blend of comfort and productivity."
   },
   {
@@ -262,6 +325,9 @@
     "pricePerDay": "₹450",
     "facilities": ["Wi-Fi", "Event Space", "Parking", "Power Backup"],
     "image": "https://www.home-designing.com/wp-content/uploads/2017/06/home-office-for-two.jpg",
+    "image1": "https://smartway2.com/wp-content/uploads/2021/04/shutterstock_763511701.jpg",
+    "image2": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw1e59bfde/b2b-campaign/desktop/2024-b2b-lp_module-6_carousel_desktop-1.jpg?sw=1500",
+    "image3": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw038c10ab/b2b-campaign/mobile/2024-b2b-lp_module-44_mobile-final.jpg",
     "description": "A professional environment with top-notch facilities for all work needs."
   },
   {
@@ -272,6 +338,9 @@
     "pricePerDay": "₹550",
     "facilities": ["Wi-Fi", "Library", "Hot Desks", "Lounge Area"],
     "image": "https://www.home-designing.com/wp-content/uploads/2017/06/workspace-for-two.jpg",
+    "image1": "https://images.stockcake.com/public/2/2/e/22e3c060-f7ea-4bf4-8c04-df35c00f72fa_large/busy-office-space-stockcake.jpg",
+    "image2": "https://images.stockcake.com/public/5/3/2/53226790-eaaa-4b7d-82a7-34e07059cf42_large/office-night-work-stockcake.jpg",
+    "image3": "https://hubble.imgix.net/listings/uploads/spaces/8843/Screenshot_2023-07-21_at_15.46.11.png?auto=format%2Ccompress&ar=4%3A3&fit=crop&q=30&w=3840",
     "description": "A creative space designed to spark ideas and boost productivity."
   },
   {
@@ -282,6 +351,9 @@
     "pricePerDay": "₹480",
     "facilities": ["Wi-Fi", "Pantry", "Free Parking", "24/7 Access"],
     "image": "https://i.pinimg.com/736x/48/8e/81/488e81bf697beec07e43828692f6f240.jpg",
+    "image1": "https://hubble.imgix.net/listings/uploads/spaces/8843/Screenshot_2023-07-21_at_15.46.11.png?auto=format%2Ccompress&ar=4%3A3&fit=crop&q=30&w=3840",
+    "image2": "https://cdn.prod.website-files.com/6087aa810ab31f22c090aad8/64d0955c8a483be17284a0ba_61af56656a99194336b8bc55_Benefits%20of%20a%20Satellite%20Office-min.webp",
+    "image3": "https://images.squarespace-cdn.com/content/v1/5877fcf8ebbd1a0e70bf993e/1612977764262-I0UOYLBCFNVLYG0B24BY/A+desk+set+up+inside+a+shared+workspace",
     "description": "A dynamic co-working hub for professionals in a bustling part of the city."
   },
   {
@@ -292,6 +364,9 @@
     "pricePerDay": "₹470",
     "facilities": ["Wi-Fi", "Snack Bar", "Conference Rooms", "Pet-Friendly"],
     "image": "https://www.home-designing.com/wp-content/uploads/2017/06/2-person-home-office.jpg",
+    "image1": "https://images.squarespace-cdn.com/content/v1/5877fcf8ebbd1a0e70bf993e/1612977764262-I0UOYLBCFNVLYG0B24BY/A+desk+set+up+inside+a+shared+workspace",
+    "image2": "https://steelcase-res.cloudinary.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1479916380/www.steelcase.com/2016/11/23/16-0016132.jpg",
+    "image3": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
     "description": "An innovative space catering to both work and leisure needs."
   },
   {
@@ -302,6 +377,9 @@
     "pricePerDay": "₹600",
     "facilities": ["Wi-Fi", "Private Cabins", "Gaming Zone", "Power Backup"],
     "image": "https://d2rw3as29v290b.cloudfront.net/instances/1/uploads/images/photo/image/162612/golden_50745f04-2595-47af-8072-970dedaca85e.jpg?v=1626844152",
+    "image1": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
+    "image2": "https://steelcase-res.cloudinary.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1479916380/www.steelcase.com/2016/11/23/16-0016132.jpg",
+    "image3": "https://images.stockcake.com/public/2/2/e/22e3c060-f7ea-4bf4-8c04-df35c00f72fa_large/busy-office-space-stockcake.jpg",
     "description": "A futuristic workspace designed for forward-thinking professionals."
   },
   {
@@ -312,6 +390,9 @@
     "pricePerDay": "₹400",
     "facilities": ["Wi-Fi", "Library", "Community Events", "Tea/Coffee"],
     "image": "https://stylishclub.pt/wp-content/uploads/2023/05/stylish-club-blog-post-the-future-of-worsapce-design-banner-1024x683.jpg",
+    "image1": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw038c10ab/b2b-campaign/mobile/2024-b2b-lp_module-44_mobile-final.jpg",
+    "image2": "https://images.squarespace-cdn.com/content/v1/5877fcf8ebbd1a0e70bf993e/1612977764262-I0UOYLBCFNVLYG0B24BY/A+desk+set+up+inside+a+shared+workspace",
+    "image3": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
     "description": "A historic location with modern amenities, perfect for small teams."
   },
   {
@@ -322,6 +403,9 @@
     "pricePerDay": "₹500",
     "facilities": ["Wi-Fi", "Quiet Zones", "Pantry", "Locker Facility"],
     "image": "https://work.life/wp-content/uploads/2020/08/Flexible-Workspace-min-1.jpg",
+    "image1": "https://steelcase-res.cloudinary.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1479916380/www.steelcase.com/2016/11/23/16-0016132.jpg",
+    "image2": "https://images.inc.com/uploaded_files/image/1920x1080/getty_517610514_353435.jpg",
+    "image3": "https://www.dgicommunications.com/wp-content/uploads/2022/08/Design_a_Flexible_Workspace.jpg",
     "description": "A tranquil space ideal for focused work and productivity."
   },
   {
@@ -332,6 +416,9 @@
     "pricePerDay": "₹420",
     "facilities": ["Wi-Fi", "Shared Desks", "Power Backup", "Parking"],
     "image": "https://www.scripps.org/sparkle-assets/images/work-at-home-office-5934a82b9863357958b50e529eb0467b.jpg",
+    "image1": "https://venturainteriors.com/wp-content/uploads/2024/12/Best-High-End-Office-Accessories-to-Elevate-Your-Workspace.webp",
+    "image2": "https://www.pressmach.com/public/uploads/media/modular-office-spaces674020996eb18.jpeg",
+    "image3": "https://venturainteriors.com/wp-content/uploads/2024/12/Best-High-End-Office-Accessories-to-Elevate-Your-Workspace.webp",
     "description": "A reliable and affordable workspace with essential features for everyday work."
   },
   {
@@ -347,6 +434,9 @@
       "Breakout Area"
     ],
     "image": "https://madisonliquidators.com/images/p/1150/5661-4-person-desk-with-privacy-panels-1.jpg",
+    "image1": "https://www.executivecentre.com/_next/static/media/planOverview-po-exploreWorkspace.bbe105c8.jpg",
+    "image2": "https://ctfassets.imgix.net/vh7r69kgcki3/BNBUKWwqCMRq2UNYPSim6/36c513b14f527abb36818f64a068437e/Web_72DPI-2P_WINDOW.jpg?auto=format%20compress&fit=crop&q=50&w=750px",
+    "image3": "https://framery.com/wp-content/uploads/2021/01/framery_by_janitaautio-7-edit.jpg",
     "description": "An inspiring space to work and collaborate in comfort."
   },
   {
@@ -357,6 +447,9 @@
     "pricePerDay": "₹430",
     "facilities": ["Wi-Fi", "Event Rooms", "Pantry", "Networking Sessions"],
     "image": "https://res.cloudinary.com/myhq/image/upload/f_auto,q_auto/w_1280/web/ssr/pages/home/hero/home-hero.jpg",
+    "image1": "https://venturainteriors.com/wp-content/uploads/2024/12/Best-High-End-Office-Accessories-to-Elevate-Your-Workspace.webp",
+    "image2": "https://www.pressmach.com/public/uploads/media/modular-office-spaces674020996eb18.jpeg",
+    "image3": "https://venturainteriors.com/wp-content/uploads/2024/12/Best-High-End-Office-Accessories-to-Elevate-Your-Workspace.webp",
     "description": "A creative workspace with opportunities for learning and growth."
   },
   {
@@ -372,6 +465,9 @@
       "Networking Events"
     ],
     "image": "https://images.livspace-cdn.com/plain/https://jumanji.livspace-cdn.com/magazine/wp-content/uploads/sites/3/2022/02/23140419/Cover-01.png",
+    "image1": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
+    "image2": "https://steelcase-res.cloudinary.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1479916380/www.steelcase.com/2016/11/23/16-0016132.jpg",
+    "image3": "https://images.stockcake.com/public/2/2/e/22e3c060-f7ea-4bf4-8c04-df35c00f72fa_large/busy-office-space-stockcake.jpg",
     "description": "An entrepreneurial hub for startups to innovate and grow."
   },
   {
@@ -382,6 +478,9 @@
     "pricePerDay": "₹450",
     "facilities": ["Wi-Fi", "Meeting Pods", "Cafeteria", "Lockers"],
     "image": "https://qdesq.imagekit.io/tr:n-detail_image_hq/image/upload/v1617860275/dgwqnha1g40bzkpdwfkt.webp",
+    "image1": "https://hubble.imgix.net/listings/uploads/spaces/8843/Screenshot_2023-07-21_at_15.46.11.png?auto=format%2Ccompress&ar=4%3A3&fit=crop&q=30&w=3840",
+    "image2": "https://cdn.prod.website-files.com/6087aa810ab31f22c090aad8/64d0955c8a483be17284a0ba_61af56656a99194336b8bc55_Benefits%20of%20a%20Satellite%20Office-min.webp",
+    "image3": "https://images.squarespace-cdn.com/content/v1/5877fcf8ebbd1a0e70bf993e/1612977764262-I0UOYLBCFNVLYG0B24BY/A+desk+set+up+inside+a+shared+workspace",
     "description": "A centralized workspace with modern design and excellent amenities."
   },
   {
@@ -392,6 +491,9 @@
     "pricePerDay": "₹470",
     "facilities": ["Wi-Fi", "Conference Halls", "Tea/Coffee", "24/7 Security"],
     "image": "https://cdn.prod.website-files.com/6655c385272fb39073a283e1/6655c385272fb39073a285ba_Offices-p-500.png",
+    "image1": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw038c10ab/b2b-campaign/mobile/2024-b2b-lp_module-44_mobile-final.jpg",
+    "image2": "https://images.stockcake.com/public/5/3/2/53226790-eaaa-4b7d-82a7-34e07059cf42_large/office-night-work-stockcake.jpg",
+    "image3": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw1e59bfde/b2b-campaign/desktop/2024-b2b-lp_module-6_carousel_desktop-1.jpg?sw=1500",
     "description": "A versatile workspace with advanced facilities for professionals."
   },
   {
@@ -407,6 +509,9 @@
       "Community Events"
     ],
     "image": "https://cdn.prod.website-files.com/6655c385272fb39073a283e1/6655c385272fb39073a285bb_Resources-p-500.png",
+    "image1": "https://images.stockcake.com/public/2/2/e/22e3c060-f7ea-4bf4-8c04-df35c00f72fa_large/busy-office-space-stockcake.jpg",
+    "image2": "https://images.stockcake.com/public/5/3/2/53226790-eaaa-4b7d-82a7-34e07059cf42_large/office-night-work-stockcake.jpg",
+    "image3": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw038c10ab/b2b-campaign/mobile/2024-b2b-lp_module-44_mobile-final.jpg",
     "description": "A premium workspace with high-end amenities and a collaborative vibe."
   },
   {
@@ -417,6 +522,9 @@
     "pricePerDay": "₹420",
     "facilities": ["Wi-Fi", "Breakout Area", "Library", "Free Parking"],
     "image": "https://cdn.prod.website-files.com/6655c385272fb39073a283e1/6655c385272fb39073a285b9_Coworking-p-500.png",
+    "image1": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
+    "image2": "https://steelcase-res.cloudinary.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1479916380/www.steelcase.com/2016/11/23/16-0016132.jpg",
+    "image3": "https://images.squarespace-cdn.com/content/v1/5877fcf8ebbd1a0e70bf993e/1612977764262-I0UOYLBCFNVLYG0B24BY/A+desk+set+up+inside+a+shared+workspace",
     "description": "An affordable and professional space with a focus on comfort."
   },
   {
@@ -427,6 +535,9 @@
     "pricePerDay": "₹480",
     "facilities": ["Wi-Fi", "Printer Access", "Conference Rooms", "Pantry"],
     "image": "https://diyversify.com/cdn/shop/articles/Modern_Working_Area_in_Corner_of_Room_With_Green_Walls_and_Plants_1000x.jpg?v=1663348923",
+    "image1": "https://images.inc.com/uploaded_files/image/1920x1080/getty_517610514_353435.jpg",
+    "image2": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
+    "image3": "https://images.squarespace-cdn.com/content/v1/5877fcf8ebbd1a0e70bf993e/1612977764262-I0UOYLBCFNVLYG0B24BY/A+desk+set+up+inside+a+shared+workspace",
     "description": "A technology-driven workspace perfect for startups and tech enthusiasts."
   },
   {
@@ -442,6 +553,9 @@
       "Parking"
     ],
     "image": "https://image.architonic.com/sto3-2/20725691/five-design-tips-for-productive-meeting-spaces-01-arcit18.jpg",
+    "image1": "https://images.stockcake.com/public/2/2/e/22e3c060-f7ea-4bf4-8c04-df35c00f72fa_large/busy-office-space-stockcake.jpg",
+    "image2": "https://images.stockcake.com/public/5/3/2/53226790-eaaa-4b7d-82a7-34e07059cf42_large/office-night-work-stockcake.jpg",
+    "image3": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw038c10ab/b2b-campaign/mobile/2024-b2b-lp_module-44_mobile-final.jpg",
     "description": "A cozy workspace that feels like home but is built for productivity."
   },
   {
@@ -452,6 +566,9 @@
     "pricePerDay": "₹460",
     "facilities": ["Wi-Fi", "Training Rooms", "Pantry", "24/7 Access"],
     "image": "https://www.ikea.com/images/a-room-at-home-with-a-dark-grey-lidkullen-active-sit-stand-s-f5ca70d3946d0372c2359f63b6f05c0e.jpg",
+    "image1": "https://www.hatcollective.com/wp-content/uploads/2022/08/360-workspace-kita-e2-open-office.jpg",
+    "image2": "https://steelcase-res.cloudinary.com/image/upload/c_fill,q_auto,f_auto,h_656,w_1166/v1479916380/www.steelcase.com/2016/11/23/16-0016132.jpg",
+    "image3": "https://images.squarespace-cdn.com/content/v1/5877fcf8ebbd1a0e70bf993e/1612977764262-I0UOYLBCFNVLYG0B24BY/A+desk+set+up+inside+a+shared+workspace",
     "description": "A modern coworking space designed for startups and individual professionals."
   },
   {
@@ -462,6 +579,9 @@
     "pricePerDay": "₹470",
     "facilities": ["Wi-Fi", "Open Seating", "Lockers", "Tea/Coffee"],
     "image": "https://coworkingers.com/wp-content/uploads/2021/10/91Springboard-Kondapur3-min.jpg",
+    "image1": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw038c10ab/b2b-campaign/mobile/2024-b2b-lp_module-44_mobile-final.jpg",
+    "image2": "https://images.stockcake.com/public/5/3/2/53226790-eaaa-4b7d-82a7-34e07059cf42_large/office-night-work-stockcake.jpg",
+    "image3": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw1e59bfde/b2b-campaign/desktop/2024-b2b-lp_module-6_carousel_desktop-1.jpg?sw=1500",
     "description": "An energetic space that fosters creativity and collaboration."
   }
 ]

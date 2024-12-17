@@ -4,7 +4,6 @@ import "./home.css"
 import HomePage from './workspaces';
 import Search from './search';
 
-
 function Home() {
   const [index, setIndex] = useState(0);
 
@@ -73,8 +72,6 @@ function Home() {
     <Search/>
     <HomePage/>
     </>
-  );
-  
+  );  
 }
-
 export default Home;

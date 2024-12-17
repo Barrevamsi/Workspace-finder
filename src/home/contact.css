@@ -1,0 +1,78 @@
+
+.footer-section {
+    padding: 10px 0;
+    background-color: #1c3a63;
+    color: #f0f8ff;
+  }
+  
+  .footer-section h4 {
+    color: #f0f8ff;
+  }
+  
+  .footer-section a {
+    color: #f0f8ff;
+    text-decoration: none;
+    transition: color 0.3s ease; /* Adding transition effect */
+  }
+  
+  .footer-section a:hover {
+    color: #4682b4; /* Hover color (Steel Blue) */
+  }
+  
+  /* Footer Social Icons */
+  .footer-social-icon i {
+    margin-right: 10px;
+    padding: 12px;
+    border-radius: 50%;
+    transition: background-color 0.3s ease; /* Adding transition effect */
+  }
+  
+  .footer-social-icon .facebook-bg {
+    background-color: #3b5998;
+  }
+  
+  .footer-social-icon .facebook-bg:hover {
+    background-color: #1d2d4c; /* Darker shade for hover */
+  }
+  
+  .footer-social-icon .twitter-bg {
+    background-color: #55acee;
+  }
+  
+  .footer-social-icon .twitter-bg:hover {
+    background-color: #1c4f75; /* Darker shade for hover */
+  }
+  
+  .footer-social-icon .google-bg {
+    background-color: #dd4b39;
+  }
+  
+  .footer-social-icon .google-bg:hover {
+    background-color: #c1351d; /* Darker shade for hover */
+  }
+  
+  /* Subscribe Button */
+  .subscribe-form button {
+    background-color: #f0f8ff;
+    color: #1c3a63;
+    transition: background-color 0.3s ease; /* Adding transition effect */
+  }
+  
+  .subscribe-form button:hover {
+    background-color: #4682b4; /* Hover background color */
+    color: #f0f8ff; /* Text color change on hover */
+  }
+  
+  /* Subscribe Input Field */
+  .subscribe-form input {
+    padding: 12px 24px;
+    background-color: #4682b4;
+    border: 1px solid #4682b4;
+    color: #fff;
+    transition: background-color 0.3s ease; /* Adding transition effect */
+  }
+  
+  .subscribe-form input:hover {
+    background-color: #1c3a63; /* Darker background on hover */
+  }
+  

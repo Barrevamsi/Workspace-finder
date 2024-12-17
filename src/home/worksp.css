@@ -1,0 +1,40 @@
+/* Small image styling */
+.small-img {
+    cursor: pointer;
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px; /* Add spacing between images */
+  }
+  
+  /* Main image styling */
+  .main-img {
+    border-radius: 10px;
+    max-height: 500px;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .small-images-wrapper {
+      flex-direction: row !important; /* Align images horizontally */
+      overflow-x: auto; /* Enable horizontal scrolling if needed */
+      gap: 8px; /* Spacing between images */
+      justify-content: start; /* Align images to the left */
+    }
+  
+    .small-img {
+      max-width: 90px; /* Set small image size */
+      height: auto;
+      border-radius: 5px;
+      flex-shrink: 0; /* Prevent images from shrinking */
+    }
+  
+    .main-img {
+      width: 100%;
+      max-height: 250px; /* Adjust main image height for mobile */
+      object-fit: cover;
+      border-radius: 10px;
+    }
+  }

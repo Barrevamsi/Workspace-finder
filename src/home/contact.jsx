@@ -1,126 +1,116 @@
-import React, { useState } from 'react';
+import "./contact.css"
 
 function Contact() {
-  const [formData, setFormData] = useState({
-    name: '',
-    email: '',
-    message: '',
-  });
-
-  const handleChange = (e) => {
-    const { name, value } = e.target;
-    setFormData({
-      ...formData,
-      [name]: value,
-    });
-  };
-
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    alert('Form submitted successfully!');
-    setFormData({ name: '', email: '', message: '' }); // Reset the form
-  };
-
   return (
-    <section style={{ padding: '40px 20px', backgroundColor: '#f0f8ff' }} id='contact'>
-      <h2 style={{ textAlign: 'center' }}>Contact Us</h2>
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
-        {/* Contact Form */}
-        <form onSubmit={handleSubmit} style={{ maxWidth: '500px', margin: '0 auto', flex: '1', paddingRight: '20px' }}>
-          <div style={{ marginBottom: '15px' }}>
-            <label htmlFor="name">Full Name</label>
-            <input
-              type="text"
-              id="name"
-              name="name"
-              value={formData.name}
-              onChange={handleChange}
-              placeholder="Enter your full name"
-              style={{
-                width: '100%',
-                padding: '10px',
-                borderRadius: '5px',
-                border: '1px solid #ccc',
-                fontSize: '16px',
-              }}
-              required
-            />
+    <footer className="footer-section" style={{ backgroundColor: '#1c3a63', color: '#f0f8ff' }}>
+      <div className="container">
+        <div className="footer-cta pt-5 pb-5">
+          <div className="row">
+            <div className="col-xl-4 col-md-4 mb-30">
+              <div className="single-cta">
+                <i className="fas fa-map-marker-alt" style={{ color: '#f0f8ff' }}></i>
+                <div className="cta-text">
+                  <h4>Find us</h4>
+                  <span>s grand, KPHB road no.1, Hyderabad</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-xl-4 col-md-4 mb-30">
+              <div className="single-cta">
+                <i className="fas fa-phone" style={{ color: '#f0f8ff' }}></i>
+                <div className="cta-text">
+                  <h4>Call us</h4>
+                  <span>9100010055</span>
+                </div>
+              </div>
+            </div>
+            <div className="col-xl-4 col-md-4 mb-30">
+              <div className="single-cta">
+                <i className="far fa-envelope-open" style={{ color: '#f0f8ff' }}></i>
+                <div className="cta-text">
+                  <h4>Mail us</h4>
+                  <span>vamsi@gmail.com</span>
+                </div>
+              </div>
+            </div>
           </div>
-
-          <div style={{ marginBottom: '15px' }}>
-            <label htmlFor="email">Email Address</label>
-            <input
-              type="email"
-              id="email"
-              name="email"
-              value={formData.email}
-              onChange={handleChange}
-              placeholder="Enter your email address"
-              style={{
-                width: '100%',
-                padding: '10px',
-                borderRadius: '5px',
-                border: '1px solid #ccc',
-                fontSize: '16px',
-              }}
-              required
-            />
+        </div>
+        <div className="footer-content pt-5 pb-5">
+          <div className="row">
+            <div className="col-xl-4 col-lg-4 mb-50">
+              <div className="footer-widget">
+                <div className="footer-text">
+                  <p>
+                    In this web site you can book workspace at your location with reasonable prices.
+                  </p>
+                </div>
+                <div className="footer-social-icon">
+                  <span>Follow us</span>
+                  <a href="#">
+                    <i className="fab fa-facebook-f" style={{ backgroundColor: '#3b5998' }}></i>
+                  </a>
+                  <a href="#">
+                    <i className="fab fa-twitter" style={{ backgroundColor: '#55acee' }}></i>
+                  </a>
+                  <a href="#">
+                    <i className="fab fa-google-plus-g" style={{ backgroundColor: '#dd4b39' }}></i>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-xl-4 col-lg-4 col-md-6 mb-30">
+              <div className="footer-widget">
+                <div className="footer-widget-heading">
+                  <h3>Useful Links</h3>
+                </div>
+                <ul>
+                  <li><a href="#" style={{ color: '#f0f8ff' }}>Home</a></li>
+                  <li><a href="#" style={{ color: '#f0f8ff' }}>About</a></li>
+                  <li><a href="#" style={{ color: '#f0f8ff' }}>Services</a></li>
+                  <li><a href="#contact" style={{ color: '#f0f8ff' }}>Contact</a></li>
+                  <li><a href="#work" style={{ color: '#f0f8ff' }}>Our Services</a></li>
+                </ul>
+              </div>
+            </div>
+            <div className="col-xl-4 col-lg-4 col-md-6 mb-50">
+              <div className="footer-widget">
+                <div className="footer-widget-heading">
+                  <h3>Subscribe</h3>
+                </div>
+                <div className="footer-text mb-25">
+                  <p>Don’t miss to subscribe to our new feeds, kindly fill the form below.</p>
+                </div>
+                <div className="subscribe-form">
+                  <form>
+                    <input
+                      type="text"
+                      placeholder="Email Address"
+                      style={{
+                        padding: '14px 28px',
+                        backgroundColor: '#4682b4',
+                        border: '1px solid #4682b4',
+                        color: '#fff',
+                      }}
+                    />
+                    <button
+                      style={{
+                        backgroundColor: '#f0f8ff',
+                        color: '#1c3a63',
+                        padding: '13px 20px',
+                        border: '1px solid #f0f8ff',
+                      }}
+                    >
+                      <i className="fab fa-telegram-plane" style={{ fontSize: '22px' }}></i>
+                    </button>
+                  </form>
+                </div>
+              </div>
+            </div>
           </div>
-
-          <div style={{ marginBottom: '15px' }}>
-            <label htmlFor="message">Your Message</label>
-            <textarea
-              id="message"
-              name="message"
-              value={formData.message}
-              onChange={handleChange}
-              placeholder="Enter your message"
-              rows="5"
-              style={{
-                width: '100%',
-                padding: '10px',
-                borderRadius: '5px',
-                border: '1px solid #ccc',
-                fontSize: '16px',
-              }}
-              required
-            ></textarea>
-          </div>
-
-          <div>
-            <button
-              type="submit"
-              style={{
-                padding: '10px 20px',
-                backgroundColor: '#007bff', 
-                color: 'white',
-                border: 'none',
-                borderRadius: '5px',
-                cursor: 'pointer',
-                fontSize: '16px',
-              }}
-            >
-              Submit
-            </button>
-          </div>
-        </form>
-
-        {/* Google Map iframe */}
-        <div style={{ flex: '1', marginLeft: '20px' }}>
-          <iframe
-            title="Google Map"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d691.3315244204088!2d78.40245542826969!3d17.493328114963717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb910006a2057d%3A0x76c2234f0ebffb2f!2sDgg!5e0!3m2!1sen!2sin!4v1732701483185!5m2!1sen!2sin"
-            width="100%"
-            height="400"
-            frameBorder="0"
-            style={{ border: '0', borderRadius: '8px' }}
-            allowFullScreen
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-          ></iframe>
         </div>
       </div>
-    </section>
+      
+    </footer>
   );
 }
 
